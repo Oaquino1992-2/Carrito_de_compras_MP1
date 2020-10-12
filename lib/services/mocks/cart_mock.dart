@@ -7,7 +7,7 @@ class CartMock {
     return <CartSeller>[
       CartSeller(
         id: 1,
-        name: "FANTACY  TECHNOLOGY",
+        name: "Tecnologia",
         subtotal: 900,
         shipping: 20,
         total: 920,
@@ -21,7 +21,7 @@ class CartMock {
             itemOptions: <ItemOption>[
               ItemOption(
                   id: 1,
-                  name: "Standard",
+                  name: "Estándar",
                   price: 0
               ),
               ItemOption(

@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: AppColors.primary,
         centerTitle: false,
-        title: Text("Hogar"),
+        title: Text("Inicio"),
         actions: <Widget>[
           IconButton(
             icon: Icon(FontAwesomeIcons.search, color: AppColors.primaryText),
@@ -133,7 +133,7 @@ class HomePage extends StatelessWidget {
       padding: EdgeInsets.all(10.0),
       child: Center(
         child: Text(
-          'Just for you',
+          'Solo para ti',
           style: Theme.of(context).textTheme.title,
         ),
       ),

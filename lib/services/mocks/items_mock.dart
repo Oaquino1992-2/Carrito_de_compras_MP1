@@ -35,17 +35,17 @@ class ItemsMock {
             options: <ItemOption>[
               ItemOption(
                   id: 1,
-                  name: "Standard",
+                  name: "Estandar",
                   price: 0
               ),
               ItemOption(
                   id: 2,
-                  name: "Add Silicon Case",
+                  name: "Agregar funda de silicona",
                   price: 1
               ),
               ItemOption(
                   id: 3,
-                  name: "Add Tempered Glass",
+                  name: "Agregar vidrio templado",
                   price: 1
               ),
             ]
@@ -80,7 +80,7 @@ class ItemsMock {
         ],
         seller: Seller(
           id: 1,
-          name: "FANTACY TECHNOLOGY",
+          name: "Tecnologia",
           numOrders: 11102,
           rating: 4.8,
           numWishList: 2101,
@@ -89,7 +89,7 @@ class ItemsMock {
       Item(
           id: 2,
           categoryId: 1,
-          name: "Makeup tool",
+          name: "Herramienta de maquillaje",
           price: 30,
           shipping: 0,
           numOrders: 1102,
@@ -123,7 +123,7 @@ class ItemsMock {
       Item(
           id: 4,
           categoryId: 1,
-          name: "Car phone",
+          name: "Telefono",
           price: 30,
           shipping: 0,
           numOrders: 1102,
@@ -140,7 +140,7 @@ class ItemsMock {
       Item(
           id: 5,
           categoryId: 1,
-          name: "Iphone 6 case",
+          name: "Funda Iphone 6",
           price: 30,
           shipping: 0,
           numOrders: 1102,
@@ -157,7 +157,7 @@ class ItemsMock {
       Item(
           id: 6,
           categoryId: 1,
-          name: "Makeup",
+          name: "Maquillaje",
           price: 30,
           shipping: 0,
           numOrders: 1102,

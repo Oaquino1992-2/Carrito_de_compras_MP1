@@ -60,7 +60,7 @@ class ProfilePage extends StatelessWidget {
             ),
             ListTile(
               leading: Icon(FontAwesomeIcons.question),
-              title: Text('Send feedback'),
+              title: Text('Enviar Comentarios'),
             ),
             ListTile(
               leading: Icon(Icons.info),

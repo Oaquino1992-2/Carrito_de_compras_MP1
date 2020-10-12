@@ -3,6 +3,7 @@ class UIData {
   static const String homeRoute = "/home";
   static const String loginRoute = "/login";
   static const String registerRoute = "/register";
+  static const String MenuRoute = "/menu_lateral";
   static const String searchRoute = "/search";
   static const String categoriesRoute = "/categories";
   static const String categoryRoute = "/category";

@@ -5,47 +5,47 @@ class CategoriesMock {
     return <Category>[
       Category(
           id: 1,
-          name: "Apparel & Accessories",
+          name: "Ropa y Accesorio",
           thumb: "assets/images/categories/accessories.png",
           itemCount: 923),
       Category(
           id: 2,
-          name: "Electronics",
+          name: "Electronicos",
           thumb: "assets/images/categories/electronics.png",
           itemCount: 180),
       Category(
           id: 3,
-          name: "Jewelry",
+          name: "Joyeria",
           thumb: "assets/images/categories/jewelry.png",
           itemCount: 923),
       Category(
           id: 4,
-          name: "Automobiles & Motorcycles",
+          name: "Automoviles y motocicletas",
           thumb: "assets/images/categories/accessories.png",
           itemCount: 923),
       Category(
           id: 5,
-          name: "Watches",
+          name: "Relojes",
           thumb: "assets/images/categories/accessories.png",
           itemCount: 923),
       Category(
           id: 6,
-          name: "Shoes",
+          name: "Zapatos",
           thumb: "assets/images/categories/accessories.png",
           itemCount: 923),
       Category(
           id: 7,
-          name: "Luggage & Bags",
+          name: "Equipaje y bolsos",
           thumb: "assets/images/categories/accessories.png",
           itemCount: 923),
       Category(
           id: 8,
-          name: "Sports & Entertainment",
+          name: "Deportes y mantenimientos",
           thumb: "assets/images/categories/accessories.png",
           itemCount: 923),
       Category(
           id: 9,
-          name: "Home & Garden",
+          name: "Hogar y Jardón",
           thumb: "assets/images/categories/accessories.png",
           itemCount: 923),
     ];
